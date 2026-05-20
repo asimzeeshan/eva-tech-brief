@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>EVA Tech Brief</title>
+    <link>https://brief.rola.fyi</link>
+    <description>Daily tech intelligence - LLMs, GPUs, Cloud, Pakistan Tech, Security, Dev Tools</description>
+    <language>en</language>
+    <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
+    <!-- FEED_ITEMS -->
+    <item>
+        <title>EVA Tech Brief | 2026-05-20</title>
+        <link>https://brief.rola.fyi/2026-05-20</link>
+        <guid>https://brief.rola.fyi/2026-05-20</guid>
+        <pubDate>2026-05-20T19:30:00+05:00</pubDate>
+        <description>Claude Opus 4.7 launches with 1M context and high-res vision | NVIDIA B300 pricing leaked - $35K per unit | AWS us-east-1 elevated errors for 47 minutes</description>
+    </item>
+</channel>
+</rss>

@@ -1,0 +1,58 @@
+{
+    "llm": [
+        {
+            "headline": "Claude Opus 4.7 launches with 1M context and high-res vision",
+            "detail": "Anthropic releases Opus 4.7 - adaptive thinking only, sampling parameters removed, 2576px vision. Most capable Claude yet.",
+            "sources": [
+                {"label": "Anthropic Blog", "url": "https://anthropic.com/news"},
+                {"label": "Hacker News", "url": "https://news.ycombinator.com"}
+            ]
+        }
+    ],
+    "gpu": [
+        {
+            "headline": "NVIDIA B300 pricing leaked - $35K per unit",
+            "detail": "Tom's Hardware reports leaked B300 pricing ahead of Q3 availability. 50% more HBM than B200.",
+            "sources": [
+                {"label": "Tom's Hardware", "url": "https://tomshardware.com"}
+            ]
+        }
+    ],
+    "cloud": [
+        {
+            "headline": "AWS us-east-1 elevated errors for 47 minutes",
+            "detail": "DynamoDB and Lambda affected. RCA pending. Third incident this quarter.",
+            "sources": [
+                {"label": "AWS Status", "url": "https://health.aws.amazon.com"}
+            ]
+        }
+    ],
+    "pakistan": [
+        {
+            "headline": "PTA approves Starlink license - rollout Q4 2026",
+            "detail": "After months of regulatory review, PTA grants conditional license. Rural areas first, urban later.",
+            "sources": [
+                {"label": "ProPakistani", "url": "https://propakistani.pk"},
+                {"label": "Dawn", "url": "https://dawn.com/tech"}
+            ]
+        }
+    ],
+    "security": [
+        {
+            "headline": "Critical RCE in popular npm package affects 12M downloads/week",
+            "detail": "CVE-2026-XXXX allows remote code execution via crafted package.json. Patch available.",
+            "sources": [
+                {"label": "GitHub Advisory", "url": "https://github.com/advisories"}
+            ]
+        }
+    ],
+    "dev": [
+        {
+            "headline": "Claude Code 2.2 ships with worktree isolation and background agents",
+            "detail": "New release adds git worktree support for parallel agent work. Background tasks no longer block the main loop.",
+            "sources": [
+                {"label": "Anthropic Changelog", "url": "https://anthropic.com/changelog"}
+            ]
+        }
+    ]
+}
