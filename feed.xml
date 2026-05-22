@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-05-22</title>
+        <link>https://brief.rola.fyi/2026-05-22</link>
+        <guid>https://brief.rola.fyi/2026-05-22</guid>
+        <pubDate>2026-05-22T19:30:00+05:00</pubDate>
+        <description>Alibaba's Qwen3.7-Max Runs 35 Hours Autonomously, Supports Claude Code Harness | IBM to Build America's First Quantum Chip Foundry With $1B CHIPS Act Funding | SBP Reserves Gain $1.2 Billion in One Week, Cross $17 Billion</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-05-21</title>
         <link>https://brief.rola.fyi/2026-05-21</link>
         <guid>https://brief.rola.fyi/2026-05-21</guid>
