@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-05-24</title>
+        <link>https://brief.rola.fyi/2026-05-24</link>
+        <guid>https://brief.rola.fyi/2026-05-24</guid>
+        <pubDate>2026-05-24T19:30:00+05:00</pubDate>
+        <description>Chinese State Hackers Used Claude AI to Autonomously Attack 30 Global Targets | Pakistan's External Loans Surge 83% to $11 Billion in 10 Months | Packagist Supply Chain Attack Infects 8 PHP Packages with GitHub-Hosted Linux Malware</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-05-23</title>
         <link>https://brief.rola.fyi/2026-05-23</link>
         <guid>https://brief.rola.fyi/2026-05-23</guid>
