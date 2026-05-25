@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-05-25</title>
+        <link>https://brief.rola.fyi/2026-05-25</link>
+        <guid>https://brief.rola.fyi/2026-05-25</guid>
+        <pubDate>2026-05-25T19:30:00+05:00</pubDate>
+        <description>ECB Convenes Banks to Fix Cybersecurity Flaws That Claude Mythos Keeps Finding | P@SHA Releases Federal Budget 2026-27 Policy Recommendations to Strengthen Digital Economy | Ghost CMS Critical Vulnerability Exploited - 700+ Sites Hacked Including Harvard and Oxford</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-05-24</title>
         <link>https://brief.rola.fyi/2026-05-24</link>
         <guid>https://brief.rola.fyi/2026-05-24</guid>
