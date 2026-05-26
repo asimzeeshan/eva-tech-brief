@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-05-26</title>
+        <link>https://brief.rola.fyi/2026-05-26</link>
+        <guid>https://brief.rola.fyi/2026-05-26</guid>
+        <pubDate>2026-05-26T19:30:00+05:00</pubDate>
+        <description>Claude Mythos - Anthropic's Restricted Security Model - May Be Coming to Claude Code | Pakistan Completes First Indigenous Earth Observation Satellite Constellation with EO-3 | KnowledgeDeliver LMS Zero-Day Exploited for Godzilla Web Shell and Cobalt Strike</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-05-25</title>
         <link>https://brief.rola.fyi/2026-05-25</link>
         <guid>https://brief.rola.fyi/2026-05-25</guid>
