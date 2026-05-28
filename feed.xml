@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-05-28</title>
+        <link>https://brief.rola.fyi/2026-05-28</link>
+        <guid>https://brief.rola.fyi/2026-05-28</guid>
+        <pubDate>2026-05-28T19:30:00+05:00</pubDate>
+        <description>Five Frontier LLMs Disagree on 67% of Real-World Fact-Check Claims | ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass | Meta Launches WhatsApp, Instagram, and Facebook Paid Subscriptions Globally</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-05-27</title>
         <link>https://brief.rola.fyi/2026-05-27</link>
         <guid>https://brief.rola.fyi/2026-05-27</guid>
