@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-06-02</title>
+        <link>https://brief.rola.fyi/2026-06-02</link>
+        <guid>https://brief.rola.fyi/2026-06-02</guid>
+        <pubDate>2026-06-02T19:30:00+05:00</pubDate>
+        <description>MiniMax-M3 debuts, matching GPT-5.5 and Gemini 3.1 Pro at a fraction of the cost | NVIDIA Jetson gets agentic AI capabilities with JetPack 7.2 | MazeBolt launches AI-generated DDoS attack testing with RADAR VectorAI</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-06-01</title>
         <link>https://brief.rola.fyi/2026-06-01</link>
         <guid>https://brief.rola.fyi/2026-06-01</guid>
