@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-06-04</title>
+        <link>https://brief.rola.fyi/2026-06-04</link>
+        <guid>https://brief.rola.fyi/2026-06-04</guid>
+        <pubDate>2026-06-04T19:30:00+05:00</pubDate>
+        <description>OpenAI highlights Endava's agentic software delivery rollout | Nvidia pushes RTX Spark as a local AI superchip for PCs | AWS ships Claude Opus 4.8 on Bedrock and updates agentic cloud services</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-06-03</title>
         <link>https://brief.rola.fyi/2026-06-03</link>
         <guid>https://brief.rola.fyi/2026-06-03</guid>
