@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-06-08</title>
+        <link>https://brief.rola.fyi/2026-06-08</link>
+        <guid>https://brief.rola.fyi/2026-06-08</guid>
+        <pubDate>2026-06-08T19:30:00+05:00</pubDate>
+        <description>NVIDIA and LG build AI factory for physical AI | MoITT opens review of Rs. 31 billion Karachi IT Park | Check Point links VPN zero-day attacks to Qilin ransomware</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-06-07</title>
         <link>https://brief.rola.fyi/2026-06-07</link>
         <guid>https://brief.rola.fyi/2026-06-07</guid>
