@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-06-10</title>
+        <link>https://brief.rola.fyi/2026-06-10</link>
+        <guid>https://brief.rola.fyi/2026-06-10</guid>
+        <pubDate>2026-06-10T19:30:00+05:00</pubDate>
+        <description>Anthropic Claude Fable 5 brings Mythos-class AI to public users | TechJuice covers Anthropic's Fable 5 and restricted Mythos 5 launch | Microsoft patches exploited Exchange Server zero-day</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-06-09</title>
         <link>https://brief.rola.fyi/2026-06-09</link>
         <guid>https://brief.rola.fyi/2026-06-09</guid>
