@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-06-15</title>
+        <link>https://brief.rola.fyi/2026-06-15</link>
+        <guid>https://brief.rola.fyi/2026-06-15</guid>
+        <pubDate>2026-06-15T19:30:00+05:00</pubDate>
+        <description>OpenAI launches $150M Partner Network for enterprise AI rollouts | Asus ProArt PA27USD OLED targets creators and high-refresh gaming | Anthropic disables frontier models after abrupt US export directive</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-06-14</title>
         <link>https://brief.rola.fyi/2026-06-14</link>
         <guid>https://brief.rola.fyi/2026-06-14</guid>
