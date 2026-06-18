@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-06-18</title>
+        <link>https://brief.rola.fyi/2026-06-18</link>
+        <guid>https://brief.rola.fyi/2026-06-18</guid>
+        <pubDate>2026-06-18T19:30:00+05:00</pubDate>
+        <description>Midjourney moves into medical imaging | France brings national AI infrastructure online with NVIDIA | AWS launches Continuum for AI-driven vulnerability remediation</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-06-15</title>
         <link>https://brief.rola.fyi/2026-06-15</link>
         <guid>https://brief.rola.fyi/2026-06-15</guid>
