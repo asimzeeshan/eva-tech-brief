@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-06-20</title>
+        <link>https://brief.rola.fyi/2026-06-20</link>
+        <guid>https://brief.rola.fyi/2026-06-20</guid>
+        <pubDate>2026-06-20T19:30:00+05:00</pubDate>
+        <description>Claude Fable 5 on Bedrock adds provider data sharing requirement | AMD to restore memory encryption on Ryzen 9000 CPUs | US energy regulator moves to accelerate data center projects</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-06-19</title>
         <link>https://brief.rola.fyi/2026-06-19</link>
         <guid>https://brief.rola.fyi/2026-06-19</guid>
