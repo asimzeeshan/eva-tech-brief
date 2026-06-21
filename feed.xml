@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-06-21</title>
+        <link>https://brief.rola.fyi/2026-06-21</link>
+        <guid>https://brief.rola.fyi/2026-06-21</guid>
+        <pubDate>2026-06-21T19:30:00+05:00</pubDate>
+        <description>Microsoft researcher uses Age of Empires II goats to critique chatbot consciousness claims | Sindh mandates facial-recognition attendance for government school staff | AryStinger botnet compromises thousands of D-Link routers</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-06-20</title>
         <link>https://brief.rola.fyi/2026-06-20</link>
         <guid>https://brief.rola.fyi/2026-06-20</guid>
