@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-06-24</title>
+        <link>https://brief.rola.fyi/2026-06-24</link>
+        <guid>https://brief.rola.fyi/2026-06-24</guid>
+        <pubDate>2026-06-24T19:30:00+05:00</pubDate>
+        <description>GPT-5 Pro helps solve immunology mystery | NVIDIA and AWS push production AI infrastructure | Upbound open-sources Modelplane for inference clusters</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-06-23</title>
         <link>https://brief.rola.fyi/2026-06-23</link>
         <guid>https://brief.rola.fyi/2026-06-23</guid>
