@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-06-28</title>
+        <link>https://brief.rola.fyi/2026-06-28</link>
+        <guid>https://brief.rola.fyi/2026-06-28</guid>
+        <pubDate>2026-06-28T19:30:00+05:00</pubDate>
+        <description>OpenAI rolls out GPT-5.6 under tight access limits | Geopolitical shocks raise the bar for risk intelligence | Pakistan approves secure mobile network for government users</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-06-27</title>
         <link>https://brief.rola.fyi/2026-06-27</link>
         <guid>https://brief.rola.fyi/2026-06-27</guid>
