@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-06-29</title>
+        <link>https://brief.rola.fyi/2026-06-29</link>
+        <guid>https://brief.rola.fyi/2026-06-29</guid>
+        <pubDate>2026-06-29T19:30:00+05:00</pubDate>
+        <description>HP expands OpenAI Frontier partnership for enterprise AI rollout | Palantir brings NVIDIA Nemotron models into secure AI work for U.S. agencies | PTA warns WhatsApp users to verify linked SIMs</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-06-28</title>
         <link>https://brief.rola.fyi/2026-06-28</link>
         <guid>https://brief.rola.fyi/2026-06-28</guid>
