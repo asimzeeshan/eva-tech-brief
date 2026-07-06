@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-07-06</title>
+        <link>https://brief.rola.fyi/2026-07-06</link>
+        <guid>https://brief.rola.fyi/2026-07-06</guid>
+        <pubDate>2026-07-06T19:30:00+05:00</pubDate>
+        <description>Station F doubles down on AI startup acceleration | Blackwell supply chain still depends on offshore packaging | Enterprise AI debate shifts from models to control</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-07-05</title>
         <link>https://brief.rola.fyi/2026-07-05</link>
         <guid>https://brief.rola.fyi/2026-07-05</guid>
