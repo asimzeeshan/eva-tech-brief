@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-07-07</title>
+        <link>https://brief.rola.fyi/2026-07-07</link>
+        <guid>https://brief.rola.fyi/2026-07-07</guid>
+        <pubDate>2026-07-07T19:30:00+05:00</pubDate>
+        <description>Anthropic maps a hidden workspace inside Claude | Turing adds AMD GPUs to reduce Nvidia dependence | Picus launches autonomous exposure validation platform</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-07-06</title>
         <link>https://brief.rola.fyi/2026-07-06</link>
         <guid>https://brief.rola.fyi/2026-07-06</guid>
