@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-07-12</title>
+        <link>https://brief.rola.fyi/2026-07-12</link>
+        <guid>https://brief.rola.fyi/2026-07-12</guid>
+        <pubDate>2026-07-12T19:30:00+05:00</pubDate>
+        <description>Mesh LLM explores distributed inference over iroh | Nvidia Blackwell hotspot data remains visible through internal MODS tooling | Audit flags cybersecurity gaps around Pakistan oil exploration data</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-07-11</title>
         <link>https://brief.rola.fyi/2026-07-11</link>
         <guid>https://brief.rola.fyi/2026-07-11</guid>
