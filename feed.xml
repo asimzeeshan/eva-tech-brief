@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-07-13</title>
+        <link>https://brief.rola.fyi/2026-07-13</link>
+        <guid>https://brief.rola.fyi/2026-07-13</guid>
+        <pubDate>2026-07-13T19:30:00+05:00</pubDate>
+        <description>OpenAI temporarily relaxes GPT-5.6 Sol usage limits | NCCIA arrests suspect in major foreign data breach case | CISA adds exploited Joomla extension zero-days to KEV</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-07-12</title>
         <link>https://brief.rola.fyi/2026-07-12</link>
         <guid>https://brief.rola.fyi/2026-07-12</guid>
