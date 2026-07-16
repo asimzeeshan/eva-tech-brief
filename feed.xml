@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-07-16</title>
+        <link>https://brief.rola.fyi/2026-07-16</link>
+        <guid>https://brief.rola.fyi/2026-07-16</guid>
+        <pubDate>2026-07-16T19:30:00+05:00</pubDate>
+        <description>Thinking Machines releases Inkling open multimodal model | Google Gemini CLI abused as hacking agent and botnet controller | OpenAI releases Codex Micro hardware for its coding workflow</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-07-15</title>
         <link>https://brief.rola.fyi/2026-07-15</link>
         <guid>https://brief.rola.fyi/2026-07-15</guid>
