@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-07-17</title>
+        <link>https://brief.rola.fyi/2026-07-17</link>
+        <guid>https://brief.rola.fyi/2026-07-17</guid>
+        <pubDate>2026-07-17T19:30:00+05:00</pubDate>
+        <description>OpenAI details teen-safety controls for ChatGPT | Nvidia launches Cosmos 3 Edge for physical AI workloads | CISA adds exploited SharePoint RCE zero-day to KEV</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-07-16</title>
         <link>https://brief.rola.fyi/2026-07-16</link>
         <guid>https://brief.rola.fyi/2026-07-16</guid>
