@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-07-19</title>
+        <link>https://brief.rola.fyi/2026-07-19</link>
+        <guid>https://brief.rola.fyi/2026-07-19</guid>
+        <pubDate>2026-07-19T19:30:00+05:00</pubDate>
+        <description>Moonshot AI's new Kimi model draws fresh open-model attention | Zilog Z80 turns 50 as open-source drop-in silicon advances | AMD faces a new AI-era reinvention challenge</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-07-18</title>
         <link>https://brief.rola.fyi/2026-07-18</link>
         <guid>https://brief.rola.fyi/2026-07-18</guid>
