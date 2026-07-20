@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-07-20</title>
+        <link>https://brief.rola.fyi/2026-07-20</link>
+        <guid>https://brief.rola.fyi/2026-07-20</guid>
+        <pubDate>2026-07-20T19:30:00+05:00</pubDate>
+        <description>China's Kimi K3 and Qwen3.8 challenge frontier AI labs | Nvidia's Japan visit points to national AI infrastructure demand | Airbus move from AWS puts sovereign cloud back in focus</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-07-19</title>
         <link>https://brief.rola.fyi/2026-07-19</link>
         <guid>https://brief.rola.fyi/2026-07-19</guid>
