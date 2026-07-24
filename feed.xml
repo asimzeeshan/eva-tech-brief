@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-07-24</title>
+        <link>https://brief.rola.fyi/2026-07-24</link>
+        <guid>https://brief.rola.fyi/2026-07-24</guid>
+        <pubDate>2026-07-24T19:30:00+05:00</pubDate>
+        <description>AMD unveils next-generation AI infrastructure for frontier workloads | Redis patches zero-days after AI agents build working RCE exploits | AI safety guardrails are complicating legitimate offensive security research</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-07-23</title>
         <link>https://brief.rola.fyi/2026-07-23</link>
         <guid>https://brief.rola.fyi/2026-07-23</guid>
