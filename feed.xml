@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-07-26</title>
+        <link>https://brief.rola.fyi/2026-07-26</link>
+        <guid>https://brief.rola.fyi/2026-07-26</guid>
+        <pubDate>2026-07-26T19:30:00+05:00</pubDate>
+        <description>Enthusiast repurposes a Tesla V100 for local LLM inference | AWS EC2 adapts its compute stack for agentic and physical AI | GitHub and PyPI add time-based defenses against supply-chain attacks</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-07-25</title>
         <link>https://brief.rola.fyi/2026-07-25</link>
         <guid>https://brief.rola.fyi/2026-07-25</guid>
