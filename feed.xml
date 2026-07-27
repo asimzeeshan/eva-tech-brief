@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-07-27</title>
+        <link>https://brief.rola.fyi/2026-07-27</link>
+        <guid>https://brief.rola.fyi/2026-07-27</guid>
+        <pubDate>2026-07-27T19:30:00+05:00</pubDate>
+        <description>OpenAI study finds AI is broadening the range of work people perform | AMD maps Zen 7 EPYC server processors into three AI-focused families | Cogent Security launches VR-1 model for proving enterprise attack paths</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-07-26</title>
         <link>https://brief.rola.fyi/2026-07-26</link>
         <guid>https://brief.rola.fyi/2026-07-26</guid>
