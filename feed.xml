@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-08-01</title>
+        <link>https://brief.rola.fyi/2026-08-01</link>
+        <guid>https://brief.rola.fyi/2026-08-01</guid>
+        <pubDate>2026-08-01T19:30:00+05:00</pubDate>
+        <description>OpenAI disrupts AI-assisted criminal scam operation | Kubernetes previews changes coming in v1.37 | Adobe patches critical Campaign Classic remote-code flaw</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-07-31</title>
         <link>https://brief.rola.fyi/2026-07-31</link>
         <guid>https://brief.rola.fyi/2026-07-31</guid>
