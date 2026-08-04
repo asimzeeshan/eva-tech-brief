@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-08-04</title>
+        <link>https://brief.rola.fyi/2026-08-04</link>
+        <guid>https://brief.rola.fyi/2026-08-04</guid>
+        <pubDate>2026-08-04T19:30:00+05:00</pubDate>
+        <description>OpenAI disrupts Cambodia-based criminal scam operation | ServiceNow launches six autonomous security products | Critical cPanel flaw allowed database-root SQL execution</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-08-03</title>
         <link>https://brief.rola.fyi/2026-08-03</link>
         <guid>https://brief.rola.fyi/2026-08-03</guid>
