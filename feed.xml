@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-08-05</title>
+        <link>https://brief.rola.fyi/2026-08-05</link>
+        <guid>https://brief.rola.fyi/2026-08-05</guid>
+        <pubDate>2026-08-05T19:30:00+05:00</pubDate>
+        <description>OpenAI details third-party cyber evaluation incidents and new safeguards | Anthropic is assembling an in-house AI chip design team | Anthropic signs reported $10 billion cloud deal with Volta</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-08-04</title>
         <link>https://brief.rola.fyi/2026-08-04</link>
         <guid>https://brief.rola.fyi/2026-08-04</guid>
