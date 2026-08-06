@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-08-06</title>
+        <link>https://brief.rola.fyi/2026-08-06</link>
+        <guid>https://brief.rola.fyi/2026-08-06</guid>
+        <pubDate>2026-08-06T19:30:00+05:00</pubDate>
+        <description>Zero-click prompt injection can hijack AI browsers through emails and social posts | Meta launches Muse Code for agentic work across large codebases</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-08-05</title>
         <link>https://brief.rola.fyi/2026-08-05</link>
         <guid>https://brief.rola.fyi/2026-08-05</guid>
