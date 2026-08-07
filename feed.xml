@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-08-07</title>
+        <link>https://brief.rola.fyi/2026-08-07</link>
+        <guid>https://brief.rola.fyi/2026-08-07</guid>
+        <pubDate>2026-08-07T19:30:00+05:00</pubDate>
+        <description>OpenAI expands free ChatGPT access with unlimited text chats | Anthropic plans in-house silicon for Claude | Azure API Management adds a dedicated AI Gateway tier</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-08-06</title>
         <link>https://brief.rola.fyi/2026-08-06</link>
         <guid>https://brief.rola.fyi/2026-08-06</guid>
