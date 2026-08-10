@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-08-10</title>
+        <link>https://brief.rola.fyi/2026-08-10</link>
+        <guid>https://brief.rola.fyi/2026-08-10</guid>
+        <pubDate>2026-08-10T19:30:00+05:00</pubDate>
+        <description>OpenAI outlines responsible AI infrastructure commitments for Texas | Critical Progress LoadMaster flaw is being actively exploited | Anthropic makes auto mode the default in Claude Code</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-08-09</title>
         <link>https://brief.rola.fyi/2026-08-09</link>
         <guid>https://brief.rola.fyi/2026-08-09</guid>
