@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-08-11</title>
+        <link>https://brief.rola.fyi/2026-08-11</link>
+        <guid>https://brief.rola.fyi/2026-08-11</guid>
+        <pubDate>2026-08-11T19:30:00+05:00</pubDate>
+        <description>NVIDIA expands local AI ecosystem with open models and agent tooling | OpenAI launches GPT-5.6-Cyber for advanced defensive security work | Anthropic will watermark AI-generated text and images</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-08-10</title>
         <link>https://brief.rola.fyi/2026-08-10</link>
         <guid>https://brief.rola.fyi/2026-08-10</guid>
