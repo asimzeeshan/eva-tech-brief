@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-08-12</title>
+        <link>https://brief.rola.fyi/2026-08-12</link>
+        <guid>https://brief.rola.fyi/2026-08-12</guid>
+        <pubDate>2026-08-12T19:30:00+05:00</pubDate>
+        <description>Microsoft patches nearly 400 security flaws, including an exploited zero-day | Google's Gemini app reaches one billion monthly users</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-08-11</title>
         <link>https://brief.rola.fyi/2026-08-11</link>
         <guid>https://brief.rola.fyi/2026-08-11</guid>
