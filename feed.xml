@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-08-20</title>
+        <link>https://brief.rola.fyi/2026-08-20</link>
+        <guid>https://brief.rola.fyi/2026-08-20</guid>
+        <pubDate>2026-08-20T19:30:00+05:00</pubDate>
+        <description>OpenAI expands Zero Data Retention for frontier models | Critical Elementor Pro flaw enables unauthenticated remote code execution | Google brings new AI study tools to Search and Gemini</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-08-14</title>
         <link>https://brief.rola.fyi/2026-08-14</link>
         <guid>https://brief.rola.fyi/2026-08-14</guid>
