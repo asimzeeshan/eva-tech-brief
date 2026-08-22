@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-08-22</title>
+        <link>https://brief.rola.fyi/2026-08-22</link>
+        <guid>https://brief.rola.fyi/2026-08-22</guid>
+        <pubDate>2026-08-22T19:30:00+05:00</pubDate>
+        <description>AMD gains record CPU share as desktop shipments fall | Leaked AWS keys leave corporate cloud accounts exposed | Vite+ beta unifies the web development toolchain</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-08-21</title>
         <link>https://brief.rola.fyi/2026-08-21</link>
         <guid>https://brief.rola.fyi/2026-08-21</guid>
