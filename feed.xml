@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-08-24</title>
+        <link>https://brief.rola.fyi/2026-08-24</link>
+        <guid>https://brief.rola.fyi/2026-08-24</guid>
+        <pubDate>2026-08-24T19:30:00+05:00</pubDate>
+        <description>Intel CPUs return to Amazon's top 10 as AMD's desktop lead faces a fresh challenge | Thomson Reuters launches a proprietary AI model for legal work | Critical Keycloak flaw could enable unauthenticated account takeover</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-08-23</title>
         <link>https://brief.rola.fyi/2026-08-23</link>
         <guid>https://brief.rola.fyi/2026-08-23</guid>
