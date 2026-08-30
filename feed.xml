@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-08-30</title>
+        <link>https://brief.rola.fyi/2026-08-30</link>
+        <guid>https://brief.rola.fyi/2026-08-30</guid>
+        <pubDate>2026-08-30T19:30:00+05:00</pubDate>
+        <description>California passes open-source OS exemption from age-verification law | Chrome and Edge extensions caught stealing crypto and browser data | AWS open-sources Kiro Crew for asynchronous coding agents</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-08-29</title>
         <link>https://brief.rola.fyi/2026-08-29</link>
         <guid>https://brief.rola.fyi/2026-08-29</guid>
