@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-09-01</title>
+        <link>https://brief.rola.fyi/2026-09-01</link>
+        <guid>https://brief.rola.fyi/2026-09-01</guid>
+        <pubDate>2026-09-01T19:30:00+05:00</pubDate>
+        <description>Pentagon adds ChatGPT and Grok to its central AI portal | Nvidia launches DLSS 5 for RTX 50-series GPUs on September 3 | Microsoft tests a fix after widespread Outlook disruption</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-08-31</title>
         <link>https://brief.rola.fyi/2026-08-31</link>
         <guid>https://brief.rola.fyi/2026-08-31</guid>
