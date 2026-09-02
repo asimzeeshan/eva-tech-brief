@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-09-02</title>
+        <link>https://brief.rola.fyi/2026-09-02</link>
+        <guid>https://brief.rola.fyi/2026-09-02</guid>
+        <pubDate>2026-09-02T19:30:00+05:00</pubDate>
+        <description>Anthropic launches Claude Fable 5.1 and Mythos 5.1 | NVIDIA and CrowdStrike expand agentic cybersecurity work | Critical Langflow flaw exploited to steal cloud and AI credentials</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-09-01</title>
         <link>https://brief.rola.fyi/2026-09-01</link>
         <guid>https://brief.rola.fyi/2026-09-01</guid>
