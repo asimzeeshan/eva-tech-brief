@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-09-03</title>
+        <link>https://brief.rola.fyi/2026-09-03</link>
+        <guid>https://brief.rola.fyi/2026-09-03</guid>
+        <pubDate>2026-09-03T19:30:00+05:00</pubDate>
+        <description>Google launches Fairwind access program for defensive cyber AI | Google releases Gemini 3.8 Flash and a cyber-focused variant | Attackers exploit critical JFrog Artifactory authentication bypass</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-09-02</title>
         <link>https://brief.rola.fyi/2026-09-02</link>
         <guid>https://brief.rola.fyi/2026-09-02</guid>
