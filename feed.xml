@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-09-04</title>
+        <link>https://brief.rola.fyi/2026-09-04</link>
+        <guid>https://brief.rola.fyi/2026-09-04</guid>
+        <pubDate>2026-09-04T19:30:00+05:00</pubDate>
+        <description>GPT-6 Astra arrives with major gains in coding and computer use | Nvidia RTX Spark N1X systems launch in October | Kubernetes 1.37 advances Dynamic Resource Allocation</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-09-03</title>
         <link>https://brief.rola.fyi/2026-09-03</link>
         <guid>https://brief.rola.fyi/2026-09-03</guid>
