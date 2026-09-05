@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-09-05</title>
+        <link>https://brief.rola.fyi/2026-09-05</link>
+        <guid>https://brief.rola.fyi/2026-09-05</guid>
+        <pubDate>2026-09-05T19:30:00+05:00</pubDate>
+        <description>DLSS 5 benchmarks reveal a steep performance cost on RTX 50-series GPUs | Anthropic uses Claude to formalize Fermat's Last Theorem proof | Elementor Pro flaw is being exploited to compromise WordPress sites</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-09-04</title>
         <link>https://brief.rola.fyi/2026-09-04</link>
         <guid>https://brief.rola.fyi/2026-09-04</guid>
