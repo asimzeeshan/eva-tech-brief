@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-09-23</title>
+        <link>https://brief.rola.fyi/2026-09-23</link>
+        <guid>https://brief.rola.fyi/2026-09-23</guid>
+        <pubDate>2026-09-23T19:30:00+05:00</pubDate>
+        <description>OpenAI extends Daybreak access to Ukraine for civilian cyber defense | Kubernetes Config Connector permissions can expose a GCP organization | Anthropic launches Claude Opus 5.5 with stronger cybersecurity safeguards</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-09-22</title>
         <link>https://brief.rola.fyi/2026-09-22</link>
         <guid>https://brief.rola.fyi/2026-09-22</guid>
