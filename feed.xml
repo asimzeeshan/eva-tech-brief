@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-09-25</title>
+        <link>https://brief.rola.fyi/2026-09-25</link>
+        <guid>https://brief.rola.fyi/2026-09-25</guid>
+        <pubDate>2026-09-25T19:30:00+05:00</pubDate>
+        <description>CISA flags exploited WSO2 and Adobe Commerce flaws | Google tests Gemini calls to businesses</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-09-24</title>
         <link>https://brief.rola.fyi/2026-09-24</link>
         <guid>https://brief.rola.fyi/2026-09-24</guid>
