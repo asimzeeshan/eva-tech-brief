@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-09-28</title>
+        <link>https://brief.rola.fyi/2026-09-28</link>
+        <guid>https://brief.rola.fyi/2026-09-28</guid>
+        <pubDate>2026-09-28T19:30:00+05:00</pubDate>
+        <description>Unofficial DLSS 5 project brings neural rendering to Radeon GPUs | Citrix patches two NetScaler zero-days under active exploitation | Nvidia introduces a platform to monitor and contain AI agents</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-09-27</title>
         <link>https://brief.rola.fyi/2026-09-27</link>
         <guid>https://brief.rola.fyi/2026-09-27</guid>
