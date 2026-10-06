@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-10-06</title>
+        <link>https://brief.rola.fyi/2026-10-06</link>
+        <guid>https://brief.rola.fyi/2026-10-06</guid>
+        <pubDate>2026-10-06T19:30:00+05:00</pubDate>
+        <description>Reflection Beam joins the open-model conversation | AMD publishes Gorgon Halo AI benchmarks ahead of expected RTX Spark launch | Google pauses open-source product bug bounty rewards</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-10-05</title>
         <link>https://brief.rola.fyi/2026-10-05</link>
         <guid>https://brief.rola.fyi/2026-10-05</guid>
