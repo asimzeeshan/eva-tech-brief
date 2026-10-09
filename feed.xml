@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-10-09</title>
+        <link>https://brief.rola.fyi/2026-10-09</link>
+        <guid>https://brief.rola.fyi/2026-10-09</guid>
+        <pubDate>2026-10-09T19:30:00+05:00</pubDate>
+        <description>NVIDIA highlights AI agents for Omniverse simulation development | Anthropic launches critical-infrastructure security program and OSS Scanner | CISA adds five Flax Typhoon-exploited flaws to its KEV catalog</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-10-08</title>
         <link>https://brief.rola.fyi/2026-10-08</link>
         <guid>https://brief.rola.fyi/2026-10-08</guid>
