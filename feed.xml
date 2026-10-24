@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-10-24</title>
+        <link>https://brief.rola.fyi/2026-10-24</link>
+        <guid>https://brief.rola.fyi/2026-10-24</guid>
+        <pubDate>2026-10-24T19:30:00+05:00</pubDate>
+        <description>OpenAI details storage scaling for a billion ChatGPT users | Moonshot AI launches flagship K3.1 Pro model | BlackX bootkit exploits Baton Drop to bypass Secure Boot</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-10-14</title>
         <link>https://brief.rola.fyi/2026-10-14</link>
         <guid>https://brief.rola.fyi/2026-10-14</guid>
