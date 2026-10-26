@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-10-26</title>
+        <link>https://brief.rola.fyi/2026-10-26</link>
+        <guid>https://brief.rola.fyi/2026-10-26</guid>
+        <pubDate>2026-10-26T19:30:00+05:00</pubDate>
+        <description>PHP2Shell flaws now exploited in the wild | Apple unveils OLED iPad mini with A20 Pro</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-10-25</title>
         <link>https://brief.rola.fyi/2026-10-25</link>
         <guid>https://brief.rola.fyi/2026-10-25</guid>
