@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-10-28</title>
+        <link>https://brief.rola.fyi/2026-10-28</link>
+        <guid>https://brief.rola.fyi/2026-10-28</guid>
+        <pubDate>2026-10-28T19:30:00+05:00</pubDate>
+        <description>Anthropic engineers explain Claude Platform and managed-agent design | Prophecy launches DataGPT for data workflows inside AI assistants | Adobe patches eight critical Campaign Classic vulnerabilities</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-10-27</title>
         <link>https://brief.rola.fyi/2026-10-27</link>
         <guid>https://brief.rola.fyi/2026-10-27</guid>
