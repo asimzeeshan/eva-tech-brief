@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-11-02</title>
+        <link>https://brief.rola.fyi/2026-11-02</link>
+        <guid>https://brief.rola.fyi/2026-11-02</guid>
+        <pubDate>2026-11-02T19:30:00+05:00</pubDate>
+        <description>NVIDIA Brev incident may have exposed customer VM SSH keys | MazeBolt brings native continuous DDoS testing to Akamai customers | Ivanti patches two Connect Secure zero-days used in attacks</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-11-01</title>
         <link>https://brief.rola.fyi/2026-11-01</link>
         <guid>https://brief.rola.fyi/2026-11-01</guid>
