@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-11-07</title>
+        <link>https://brief.rola.fyi/2026-11-07</link>
+        <guid>https://brief.rola.fyi/2026-11-07</guid>
+        <pubDate>2026-11-07T19:30:00+05:00</pubDate>
+        <description>NVIDIA open source tools support 6G research | Thinking Machines releases Inkling 2 Small | QNAP warns of Plex2Shell attacks on NAS devices</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-11-06</title>
         <link>https://brief.rola.fyi/2026-11-06</link>
         <guid>https://brief.rola.fyi/2026-11-06</guid>
