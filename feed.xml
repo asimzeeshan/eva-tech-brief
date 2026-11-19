@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-11-19</title>
+        <link>https://brief.rola.fyi/2026-11-19</link>
+        <guid>https://brief.rola.fyi/2026-11-19</guid>
+        <pubDate>2026-11-19T19:30:00+05:00</pubDate>
+        <description>Gemini app expands to lower-memory Android phones | Google positions Gemini 4 Neon between its flagship and low-cost models | Nvidia investigates ransomware claim; compromise remains unconfirmed</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-11-18</title>
         <link>https://brief.rola.fyi/2026-11-18</link>
         <guid>https://brief.rola.fyi/2026-11-18</guid>
