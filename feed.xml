@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-11-21</title>
+        <link>https://brief.rola.fyi/2026-11-21</link>
+        <guid>https://brief.rola.fyi/2026-11-21</guid>
+        <pubDate>2026-11-21T19:30:00+05:00</pubDate>
+        <description>AI and Lean bring formal verification into focus | Anthropic researcher claims Claude-assisted Riemann hypothesis proof | Ransomware recovery firm's CTO charged over alleged false decryption claims</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-11-20</title>
         <link>https://brief.rola.fyi/2026-11-20</link>
         <guid>https://brief.rola.fyi/2026-11-20</guid>
