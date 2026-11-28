@@ -8,6 +8,13 @@
     <atom:link href="https://brief.rola.fyi/feed.xml" rel="self" type="application/rss+xml"/>
     <!-- FEED_ITEMS -->
     <item>
+        <title>EVA Tech Brief | 2026-11-28</title>
+        <link>https://brief.rola.fyi/2026-11-28</link>
+        <guid>https://brief.rola.fyi/2026-11-28</guid>
+        <pubDate>2026-11-28T19:30:00+05:00</pubDate>
+        <description>Inside the market for coding-model training data | Repurposed mining rig pools 72GB of VRAM for local AI | Air Force Cloud One breach reported; scope remains unclear</description>
+    </item>
+    <item>
         <title>EVA Tech Brief | 2026-11-27</title>
         <link>https://brief.rola.fyi/2026-11-27</link>
         <guid>https://brief.rola.fyi/2026-11-27</guid>
